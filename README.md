@@ -14,6 +14,10 @@
 CIA TRIAD:Confidentiality, Integrity, and Availability
 你是專家,請用十頁簡報說明CIA TRIAD
 ```
+### 文生圖[prompt提示詞2](prompt2.md)
+```
+請為李白將進酒畫四幅水墨畫
+```
 #### ChatGPT
 ```
 頁面 1: 封面

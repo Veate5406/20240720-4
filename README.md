@@ -14,7 +14,7 @@
 CIA TRIAD:Confidentiality, Integrity, and Availability
 你是專家,請用十頁簡報說明CIA TRIAD
 ```
-### ChatGPT
+#### ChatGPT
 ```
 頁面 1: 封面
 標題: CIA TRIAD
@@ -84,11 +84,11 @@ CIA TRIAD 是資訊安全的基礎。
 採用適當的技術和策略以確保系統的安全性。
 
 ```
-### GEMINI
+#### GEMINI
 ```
 
 ```
-### Copilot 
+#### Copilot 
 ```
 
 ```

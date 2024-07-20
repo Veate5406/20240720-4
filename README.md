@@ -113,7 +113,7 @@ int main() {
 
 ```
 ### C++
-```
+```C++
 #include <iostream>
 using namespace std;
 
